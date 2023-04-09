@@ -1,0 +1,575 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global}
+    \entry{Bansak2022}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=4c6afaaedfffd02ea4c2881d54c8cd91}{%
+           family={Bansak},
+           familyi={B\bibinitperiod},
+           given={Cynthia},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=369a0e14bccf0a791c371e79393421db}{%
+           family={Blanco},
+           familyi={B\bibinitperiod},
+           given={Abigail\bibnamedelima Hall},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eb89f3591408f991cad76359b9fb45c7}{%
+           family={Coon},
+           familyi={C\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9f07103742bee0f7cee64e40a041aef2}
+      \strng{fullhash}{23d266cf4c868637e2534f15ffd733f0}
+      \strng{bibnamehash}{23d266cf4c868637e2534f15ffd733f0}
+      \strng{authorbibnamehash}{23d266cf4c868637e2534f15ffd733f0}
+      \strng{authornamehash}{9f07103742bee0f7cee64e40a041aef2}
+      \strng{authorfullhash}{23d266cf4c868637e2534f15ffd733f0}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{<p>Using data from the US Customs and Border Protection and novel data on border fencing, we examine how the construction of border fencing under the Secure Fence Act influenced crossing decisions and the likelihood of migrant deaths. Apprehension data suggest that fence construction induced migrants to cross in unfenced sectors. Meanwhile, the average death rate rose nearly threefold in the sectors where the fence was not built. These results support our hypotheses that fence construction induced some migrants to cross in unfenced sectors, while others were diverted to cross in more dangerous locations within fenced sectors.</p>}
+      \field{issn}{2574-0768}
+      \field{journaltitle}{AEA Papers and Proceedings}
+      \field{month}{5}
+      \field{title}{Border Fencing, Migrant Flows, and Crossing Deaths}
+      \field{volume}{112}
+      \field{year}{2022}
+      \field{pages}{381\bibrangedash 385}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1257/pandp.20221023
+      \endverb
+      \verb{urlraw}
+      \verb https://pubs.aeaweb.org/doi/10.1257/pandp.20221023
+      \endverb
+      \verb{url}
+      \verb https://pubs.aeaweb.org/doi/10.1257/pandp.20221023
+      \endverb
+    \endentry
+    \entry{Callaway2021}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=4a5a67b3788b4a3653a14d9ab03fba0e}{%
+           family={Callaway},
+           familyi={C\bibinitperiod},
+           given={Brantly},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7767820037a369ec59519519e44c7e9a}{%
+           family={Sant’Anna},
+           familyi={S\bibinitperiod},
+           given={Pedro\bibnamedelima H.C.},
+           giveni={P\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{81e94baa528cefc8bb56e5c1a70471e2}
+      \strng{fullhash}{81e94baa528cefc8bb56e5c1a70471e2}
+      \strng{bibnamehash}{81e94baa528cefc8bb56e5c1a70471e2}
+      \strng{authorbibnamehash}{81e94baa528cefc8bb56e5c1a70471e2}
+      \strng{authornamehash}{81e94baa528cefc8bb56e5c1a70471e2}
+      \strng{authorfullhash}{81e94baa528cefc8bb56e5c1a70471e2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this article, we consider identification, estimation, and inference procedures for treatment effect parameters using Difference-in-Differences (DiD) with (i) multiple time periods, (ii) variation in treatment timing, and (iii) when the “parallel trends assumption” holds potentially only after conditioning on observed covariates. We show that a family of causal effect parameters are identified in staggered DiD setups, even if differences in observed characteristics create non-parallel outcome dynamics between groups. Our identification results allow one to use outcome regression, inverse probability weighting, or doubly-robust estimands. We also propose different aggregation schemes that can be used to highlight treatment effect heterogeneity across different dimensions as well as to summarize the overall effect of participating in the treatment. We establish the asymptotic properties of the proposed estimators and prove the validity of a computationally convenient bootstrap procedure to conduct asymptotically valid simultaneous (instead of pointwise) inference. Finally, we illustrate the relevance of our proposed tools by analyzing the effect of the minimum wage on teen employment from 2001–2007. Open-source software is available for implementing the proposed methods.}
+      \field{issn}{03044076}
+      \field{issue}{2}
+      \field{journaltitle}{Journal of Econometrics}
+      \field{month}{12}
+      \field{title}{Difference-in-Differences with multiple time periods}
+      \field{volume}{225}
+      \field{year}{2021}
+      \field{pages}{200\bibrangedash 230}
+      \range{pages}{31}
+      \verb{doi}
+      \verb 10.1016/j.jeconom.2020.12.001
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0304407620303948
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0304407620303948
+      \endverb
+    \endentry
+    \entry{callaway2021differenceindifferences}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=4a5a67b3788b4a3653a14d9ab03fba0e}{%
+           family={Callaway},
+           familyi={C\bibinitperiod},
+           given={Brantly},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=437b3fad5b4a40d10f45b4fc16dd7730}{%
+           family={Goodman-Bacon},
+           familyi={G\bibinithyphendelim B\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f90144f1e670fa40bee88166593b00ea}{%
+           family={Sant'Anna},
+           familyi={S\bibinitperiod},
+           given={Pedro\bibnamedelimb H.\bibnamedelimi C.},
+           giveni={P\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5eec62f9fa8fafa0729f52df408f7d2e}
+      \strng{fullhash}{100b0960671e592b2885c4af9a18389d}
+      \strng{bibnamehash}{100b0960671e592b2885c4af9a18389d}
+      \strng{authorbibnamehash}{100b0960671e592b2885c4af9a18389d}
+      \strng{authornamehash}{5eec62f9fa8fafa0729f52df408f7d2e}
+      \strng{authorfullhash}{100b0960671e592b2885c4af9a18389d}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{econ.EM}
+      \field{eprinttype}{arXiv}
+      \field{title}{Difference-in-Differences with a Continuous Treatment}
+      \field{year}{2021}
+      \verb{eprint}
+      \verb 2107.02637
+      \endverb
+    \endentry
+    \entry{castaneda2017}{web_page}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=9123792c79253a12d3fc29067804714b}{%
+           family={Castañeda},
+           familyi={C\bibinitperiod},
+           given={Leo},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4bb33b6aa5fe940c6a94ddde42ab51e6}{%
+           family={Guerrero},
+           familyi={G\bibinitperiod},
+           given={Jean},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8011208733e44899d38e43622f491efb}
+      \strng{fullhash}{8011208733e44899d38e43622f491efb}
+      \strng{bibnamehash}{8011208733e44899d38e43622f491efb}
+      \strng{authorbibnamehash}{8011208733e44899d38e43622f491efb}
+      \strng{authornamehash}{8011208733e44899d38e43622f491efb}
+      \strng{authorfullhash}{8011208733e44899d38e43622f491efb}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{11}
+      \field{title}{America's Wall}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://www.kpbs.org/news/border-immigration/2017/11/13/americas-wall
+      \endverb
+      \verb{url}
+      \verb https://www.kpbs.org/news/border-immigration/2017/11/13/americas-wall
+      \endverb
+    \endentry
+    \entry{chaisemartin2022}{report}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e476426fa9151355cd09327277745a1c}{%
+           family={Chaisemartin},
+           familyi={C\bibinitperiod},
+           given={Clément},
+           giveni={C\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=4f144b9e328b955315daa79c0d4d2122}{%
+           family={D'Haultfoeuille},
+           familyi={D\bibinitperiod},
+           given={Xavier},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {National Bureau of Economic Research}%
+      }
+      \strng{namehash}{10877da5bd44f3d87d6bc5fb5c07527a}
+      \strng{fullhash}{10877da5bd44f3d87d6bc5fb5c07527a}
+      \strng{bibnamehash}{10877da5bd44f3d87d6bc5fb5c07527a}
+      \strng{authorbibnamehash}{10877da5bd44f3d87d6bc5fb5c07527a}
+      \strng{authornamehash}{10877da5bd44f3d87d6bc5fb5c07527a}
+      \strng{authorfullhash}{10877da5bd44f3d87d6bc5fb5c07527a}
+      \field{sortinit}{d}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We study two-way-fixed-effects regressions (TWFE) with several treatment variables. Under a parallel trends assumption, we show that the coefficient on each treatment identifies a weighted sum of that treatment’s effect, with possibly negative weights, plus a weighted sum of the effects of the other treatments. Thus, those estimators are not robust to heterogeneous effects and may be contaminated by other treatments’ effects. When a treatment is omitted from the regression, we obtain a new omitted variable bias formula, where bias can arise even if the treatments are not correlated with each other, but can be smaller than in the TWFE regression with all treatments. We propose an alternative difference-in-differences estimator, robust to heterogeneous effects and immune to the contamination problem. In the application we consider, the TWFE regression identifies a highly non-convex combination of effects, with large contamination weights, and one of its coefficients significantly differs from our heterogeneity-robust estimator.}
+      \field{month}{10}
+      \field{number}{30564}
+      \field{series}{Working Paper Series}
+      \field{title}{Two-way Fixed Effects and Differences-in-Differences Estimators with Several Treatments}
+      \field{type}{Working Paper}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.3386/w30564
+      \endverb
+      \verb{urlraw}
+      \verb http://www.nber.org/papers/w30564
+      \endverb
+      \verb{url}
+      \verb http://www.nber.org/papers/w30564
+      \endverb
+    \endentry
+    \entry{GOODMANBACON2021254}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=437b3fad5b4a40d10f45b4fc16dd7730}{%
+           family={Goodman-Bacon},
+           familyi={G\bibinithyphendelim B\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{437b3fad5b4a40d10f45b4fc16dd7730}
+      \strng{fullhash}{437b3fad5b4a40d10f45b4fc16dd7730}
+      \strng{bibnamehash}{437b3fad5b4a40d10f45b4fc16dd7730}
+      \strng{authorbibnamehash}{437b3fad5b4a40d10f45b4fc16dd7730}
+      \strng{authornamehash}{437b3fad5b4a40d10f45b4fc16dd7730}
+      \strng{authorfullhash}{437b3fad5b4a40d10f45b4fc16dd7730}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The canonical difference-in-differences (DD) estimator contains two time periods, ”pre” and ”post”, and two groups, ”treatment” and ”control”. Most DD applications, however, exploit variation across groups of units that receive treatment at different times. This paper shows that the two-way fixed effects estimator equals a weighted average of all possible two-group/two-period DD estimators in the data. A causal interpretation of two-way fixed effects DD estimates requires both a parallel trends assumption and treatment effects that are constant over time. I show how to decompose the difference between two specifications, and provide a new analysis of models that include time-varying controls.}
+      \field{issn}{0304-4076}
+      \field{journaltitle}{Journal of Econometrics}
+      \field{note}{Themed Issue: Treatment Effect 1}
+      \field{number}{2}
+      \field{title}{Difference-in-differences with variation in treatment timing}
+      \field{volume}{225}
+      \field{year}{2021}
+      \field{pages}{254\bibrangedash 277}
+      \range{pages}{24}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.jeconom.2021.03.014
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0304407621001445
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0304407621001445
+      \endverb
+      \keyw{Difference-in-differences,Variation in treatment timing,Two-way fixed effects,Treatment effect heterogeneity}
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global}
+    \entry{Bansak2022}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=4c6afaaedfffd02ea4c2881d54c8cd91}{%
+           family={Bansak},
+           familyi={B\bibinitperiod},
+           given={Cynthia},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=369a0e14bccf0a791c371e79393421db}{%
+           family={Blanco},
+           familyi={B\bibinitperiod},
+           given={Abigail\bibnamedelima Hall},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eb89f3591408f991cad76359b9fb45c7}{%
+           family={Coon},
+           familyi={C\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9f07103742bee0f7cee64e40a041aef2}
+      \strng{fullhash}{23d266cf4c868637e2534f15ffd733f0}
+      \strng{bibnamehash}{23d266cf4c868637e2534f15ffd733f0}
+      \strng{authorbibnamehash}{23d266cf4c868637e2534f15ffd733f0}
+      \strng{authornamehash}{9f07103742bee0f7cee64e40a041aef2}
+      \strng{authorfullhash}{23d266cf4c868637e2534f15ffd733f0}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{<p>Using data from the US Customs and Border Protection and novel data on border fencing, we examine how the construction of border fencing under the Secure Fence Act influenced crossing decisions and the likelihood of migrant deaths. Apprehension data suggest that fence construction induced migrants to cross in unfenced sectors. Meanwhile, the average death rate rose nearly threefold in the sectors where the fence was not built. These results support our hypotheses that fence construction induced some migrants to cross in unfenced sectors, while others were diverted to cross in more dangerous locations within fenced sectors.</p>}
+      \field{issn}{2574-0768}
+      \field{journaltitle}{AEA Papers and Proceedings}
+      \field{month}{5}
+      \field{title}{Border Fencing, Migrant Flows, and Crossing Deaths}
+      \field{volume}{112}
+      \field{year}{2022}
+      \field{pages}{381\bibrangedash 385}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1257/pandp.20221023
+      \endverb
+      \verb{urlraw}
+      \verb https://pubs.aeaweb.org/doi/10.1257/pandp.20221023
+      \endverb
+      \verb{url}
+      \verb https://pubs.aeaweb.org/doi/10.1257/pandp.20221023
+      \endverb
+    \endentry
+    \entry{callaway2021differenceindifferences}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=4a5a67b3788b4a3653a14d9ab03fba0e}{%
+           family={Callaway},
+           familyi={C\bibinitperiod},
+           given={Brantly},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=437b3fad5b4a40d10f45b4fc16dd7730}{%
+           family={Goodman-Bacon},
+           familyi={G\bibinithyphendelim B\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f90144f1e670fa40bee88166593b00ea}{%
+           family={Sant'Anna},
+           familyi={S\bibinitperiod},
+           given={Pedro\bibnamedelimb H.\bibnamedelimi C.},
+           giveni={P\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5eec62f9fa8fafa0729f52df408f7d2e}
+      \strng{fullhash}{100b0960671e592b2885c4af9a18389d}
+      \strng{bibnamehash}{100b0960671e592b2885c4af9a18389d}
+      \strng{authorbibnamehash}{100b0960671e592b2885c4af9a18389d}
+      \strng{authornamehash}{5eec62f9fa8fafa0729f52df408f7d2e}
+      \strng{authorfullhash}{100b0960671e592b2885c4af9a18389d}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{econ.EM}
+      \field{eprinttype}{arXiv}
+      \field{title}{Difference-in-Differences with a Continuous Treatment}
+      \field{year}{2021}
+      \verb{eprint}
+      \verb 2107.02637
+      \endverb
+    \endentry
+    \entry{Callaway2021}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=4a5a67b3788b4a3653a14d9ab03fba0e}{%
+           family={Callaway},
+           familyi={C\bibinitperiod},
+           given={Brantly},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7767820037a369ec59519519e44c7e9a}{%
+           family={Sant’Anna},
+           familyi={S\bibinitperiod},
+           given={Pedro\bibnamedelima H.C.},
+           giveni={P\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{81e94baa528cefc8bb56e5c1a70471e2}
+      \strng{fullhash}{81e94baa528cefc8bb56e5c1a70471e2}
+      \strng{bibnamehash}{81e94baa528cefc8bb56e5c1a70471e2}
+      \strng{authorbibnamehash}{81e94baa528cefc8bb56e5c1a70471e2}
+      \strng{authornamehash}{81e94baa528cefc8bb56e5c1a70471e2}
+      \strng{authorfullhash}{81e94baa528cefc8bb56e5c1a70471e2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this article, we consider identification, estimation, and inference procedures for treatment effect parameters using Difference-in-Differences (DiD) with (i) multiple time periods, (ii) variation in treatment timing, and (iii) when the “parallel trends assumption” holds potentially only after conditioning on observed covariates. We show that a family of causal effect parameters are identified in staggered DiD setups, even if differences in observed characteristics create non-parallel outcome dynamics between groups. Our identification results allow one to use outcome regression, inverse probability weighting, or doubly-robust estimands. We also propose different aggregation schemes that can be used to highlight treatment effect heterogeneity across different dimensions as well as to summarize the overall effect of participating in the treatment. We establish the asymptotic properties of the proposed estimators and prove the validity of a computationally convenient bootstrap procedure to conduct asymptotically valid simultaneous (instead of pointwise) inference. Finally, we illustrate the relevance of our proposed tools by analyzing the effect of the minimum wage on teen employment from 2001–2007. Open-source software is available for implementing the proposed methods.}
+      \field{issn}{03044076}
+      \field{issue}{2}
+      \field{journaltitle}{Journal of Econometrics}
+      \field{month}{12}
+      \field{title}{Difference-in-Differences with multiple time periods}
+      \field{volume}{225}
+      \field{year}{2021}
+      \field{pages}{200\bibrangedash 230}
+      \range{pages}{31}
+      \verb{doi}
+      \verb 10.1016/j.jeconom.2020.12.001
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0304407620303948
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0304407620303948
+      \endverb
+    \endentry
+    \entry{castaneda2017}{web_page}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=9123792c79253a12d3fc29067804714b}{%
+           family={Castañeda},
+           familyi={C\bibinitperiod},
+           given={Leo},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4bb33b6aa5fe940c6a94ddde42ab51e6}{%
+           family={Guerrero},
+           familyi={G\bibinitperiod},
+           given={Jean},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8011208733e44899d38e43622f491efb}
+      \strng{fullhash}{8011208733e44899d38e43622f491efb}
+      \strng{bibnamehash}{8011208733e44899d38e43622f491efb}
+      \strng{authorbibnamehash}{8011208733e44899d38e43622f491efb}
+      \strng{authornamehash}{8011208733e44899d38e43622f491efb}
+      \strng{authorfullhash}{8011208733e44899d38e43622f491efb}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{11}
+      \field{title}{America's Wall}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://www.kpbs.org/news/border-immigration/2017/11/13/americas-wall
+      \endverb
+      \verb{url}
+      \verb https://www.kpbs.org/news/border-immigration/2017/11/13/americas-wall
+      \endverb
+    \endentry
+    \entry{chaisemartin2022}{report}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e476426fa9151355cd09327277745a1c}{%
+           family={Chaisemartin},
+           familyi={C\bibinitperiod},
+           given={Clément},
+           giveni={C\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=4f144b9e328b955315daa79c0d4d2122}{%
+           family={D'Haultfoeuille},
+           familyi={D\bibinitperiod},
+           given={Xavier},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {National Bureau of Economic Research}%
+      }
+      \strng{namehash}{10877da5bd44f3d87d6bc5fb5c07527a}
+      \strng{fullhash}{10877da5bd44f3d87d6bc5fb5c07527a}
+      \strng{bibnamehash}{10877da5bd44f3d87d6bc5fb5c07527a}
+      \strng{authorbibnamehash}{10877da5bd44f3d87d6bc5fb5c07527a}
+      \strng{authornamehash}{10877da5bd44f3d87d6bc5fb5c07527a}
+      \strng{authorfullhash}{10877da5bd44f3d87d6bc5fb5c07527a}
+      \field{sortinit}{d}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We study two-way-fixed-effects regressions (TWFE) with several treatment variables. Under a parallel trends assumption, we show that the coefficient on each treatment identifies a weighted sum of that treatment’s effect, with possibly negative weights, plus a weighted sum of the effects of the other treatments. Thus, those estimators are not robust to heterogeneous effects and may be contaminated by other treatments’ effects. When a treatment is omitted from the regression, we obtain a new omitted variable bias formula, where bias can arise even if the treatments are not correlated with each other, but can be smaller than in the TWFE regression with all treatments. We propose an alternative difference-in-differences estimator, robust to heterogeneous effects and immune to the contamination problem. In the application we consider, the TWFE regression identifies a highly non-convex combination of effects, with large contamination weights, and one of its coefficients significantly differs from our heterogeneity-robust estimator.}
+      \field{month}{10}
+      \field{number}{30564}
+      \field{series}{Working Paper Series}
+      \field{title}{Two-way Fixed Effects and Differences-in-Differences Estimators with Several Treatments}
+      \field{type}{Working Paper}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.3386/w30564
+      \endverb
+      \verb{urlraw}
+      \verb http://www.nber.org/papers/w30564
+      \endverb
+      \verb{url}
+      \verb http://www.nber.org/papers/w30564
+      \endverb
+    \endentry
+    \entry{GOODMANBACON2021254}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=437b3fad5b4a40d10f45b4fc16dd7730}{%
+           family={Goodman-Bacon},
+           familyi={G\bibinithyphendelim B\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{437b3fad5b4a40d10f45b4fc16dd7730}
+      \strng{fullhash}{437b3fad5b4a40d10f45b4fc16dd7730}
+      \strng{bibnamehash}{437b3fad5b4a40d10f45b4fc16dd7730}
+      \strng{authorbibnamehash}{437b3fad5b4a40d10f45b4fc16dd7730}
+      \strng{authornamehash}{437b3fad5b4a40d10f45b4fc16dd7730}
+      \strng{authorfullhash}{437b3fad5b4a40d10f45b4fc16dd7730}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The canonical difference-in-differences (DD) estimator contains two time periods, ”pre” and ”post”, and two groups, ”treatment” and ”control”. Most DD applications, however, exploit variation across groups of units that receive treatment at different times. This paper shows that the two-way fixed effects estimator equals a weighted average of all possible two-group/two-period DD estimators in the data. A causal interpretation of two-way fixed effects DD estimates requires both a parallel trends assumption and treatment effects that are constant over time. I show how to decompose the difference between two specifications, and provide a new analysis of models that include time-varying controls.}
+      \field{issn}{0304-4076}
+      \field{journaltitle}{Journal of Econometrics}
+      \field{note}{Themed Issue: Treatment Effect 1}
+      \field{number}{2}
+      \field{title}{Difference-in-differences with variation in treatment timing}
+      \field{volume}{225}
+      \field{year}{2021}
+      \field{pages}{254\bibrangedash 277}
+      \range{pages}{24}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.jeconom.2021.03.014
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0304407621001445
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0304407621001445
+      \endverb
+      \keyw{Difference-in-differences,Variation in treatment timing,Two-way fixed effects,Treatment effect heterogeneity}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

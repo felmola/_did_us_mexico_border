@@ -1,0 +1,35 @@
+\begin{table}[htbp]\centering
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\caption{Estimation Results}
+\begin{tabular}{l*{4}{c}}
+\hline\hline
+            &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}&\multicolumn{1}{c}{(3)}&\multicolumn{1}{c}{(4)}\\
+            &\multicolumn{1}{c}{lnapp}&\multicolumn{1}{c}{lnapp\_c}&\multicolumn{1}{c}{deathsper100k}&\multicolumn{1}{c}{deathsper100k\_c}\\
+\hline
+fenced      &      1.1383\sym{***}&      0.6953\sym{***}&     -0.2904         &    -12.2415\sym{*}  \\
+            &    (0.2222)         &    (0.1461)         &    (3.9056)         &    (5.1674)         \\
+[1em]
+sfa         &     -1.1029\sym{***}&     -2.2395\sym{***}&     82.6423\sym{***}&     85.6715\sym{**} \\
+            &    (0.2654)         &    (0.2919)         &   (13.6249)         &   (30.3987)         \\
+[1em]
+fencedsfa   &     -0.4004         &     -0.8258\sym{***}&    -50.0210\sym{**} &    -63.5672\sym{***}\\
+            &    (0.3176)         &    (0.1988)         &   (15.2819)         &   (13.4538)         \\
+[1em]
+months80    &                     &      0.1409\sym{***}&                     &      8.4761\sym{***}\\
+            &                     &    (0.0313)         &                     &    (1.6433)         \\
+[1em]
+lagstaff    &                     &      0.0010\sym{***}&                     &      0.0294\sym{***}\\
+            &                     &    (0.0001)         &                     &    (0.0055)         \\
+[1em]
+\_cons      &     10.7314\sym{***}&     10.2220\sym{***}&     28.7065\sym{***}&    -16.4512         \\
+            &    (0.2030)         &    (0.2860)         &    (3.2511)         &    (9.6161)         \\
+\hline
+\(N\)       &         153         &         153         &         153         &         153         \\
+time\_fe     &          No         &         Yes         &          No         &         Yes         \\
+F           &     58.0701         &     30.9446         &     19.7457         &      8.1555         \\
+p           &      0.0000         &      0.0000         &      0.0000         &      0.0000         \\
+\hline\hline
+\multicolumn{5}{l}{\footnotesize Standard errors in parentheses}\\
+\multicolumn{5}{l}{\footnotesize \sym{*} \(p<0.05\), \sym{**} \(p<0.01\), \sym{***} \(p<0.001\)}\\
+\end{tabular}
+\end{table}

@@ -1,0 +1,10 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Replication\let \reserved@d =[\def \par }{1}{section.1}%
+\contentsline {section}{\numberline {2}Extension}{5}{section.2}%
+\contentsline {section}{References}{14}{section*.26}%
+\contentsline {section}{Annexes}{14}{section*.26}%
+\contentsline {section}{\numberline {A}Desktop review}{14}{appendix.A}%
+\contentsline {section}{\numberline {B}Border Sectors}{15}{appendix.B}%
+\contentsline {section}{\numberline {C}Canonical DiD}{15}{appendix.C}%
+\contentsline {subsection}{\numberline {C.1}Assumptions}{15}{subsection.C.1}%
+\contentsline {section}{\numberline {D}DiD Advances and Materials}{15}{appendix.D}%
