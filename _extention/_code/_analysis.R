@@ -265,6 +265,7 @@ texreg(list(cw_app, cw_app_c, cw_death, cw_death_c),
        caption = "TWFE estimation of ATTs across doses.",
        label = "tab:cw_atts",
        caption.above = TRUE,
+       float.pos = "!ht",
        
        file = "C:/Users/felmo/Dropbox/1_personal/_maestria_unibo_(operacional)/_causal_inference/_did/_did_us_mexico_border/_extention/_output/cw_atts.tex")
 

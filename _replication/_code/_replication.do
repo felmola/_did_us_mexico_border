@@ -28,5 +28,5 @@ estadd local time_fe="Yes"
 est store deathsper100k_c
 
 *ssc install estout, replace
-esttab lnapp lnapp_c deathsper100k deathsper100k_c using "${path}\_output\table1.tex", replace keep(fenced sfa fencedsfa months80 lagstaff _cons) scalars(time_fe N F p) se(%10.4f) b(%10.4f) star(* 0.05 ** 0.01 *** 0.001) mtitles title("Estimation Results") style(tex)
+esttab lnapp lnapp_c deathsper100k deathsper100k_c using "${path}\_output\table1.tex", replace keep(fenced sfa fencedsfa months80 lagstaff _cons) scalars(time_fe N F p) se(%10.4f) b(%10.4f) star(* 0.05 ** 0.01 *** 0.001) mtitles title("Estimation Results \label{tab:table1}") style(tex)
 
